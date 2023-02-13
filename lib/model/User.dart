@@ -1,5 +1,6 @@
+class User {
+  User({this.name, this.rol});
 
-
-class User{
-  
+  String? name;
+  String? rol;
 }
